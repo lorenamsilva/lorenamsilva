@@ -1,5 +1,9 @@
 ## Bem-vindo(a) ao meu perfil! 😁
 
+Prazer! Meu nome é Lorena Medeiros e sou fascinada por tecnologia. Sou estudante de Front-end e estou empenhada em me tornar uma Dev Full Stack.
+
+Aqui você encontrará todos os projetos mais interessantes/relevantes que eu ja desenvolvi. Sinta-se livre para fazer pull requests e abrir issues quando quiser, será uma honra poder conversar com você!
+
  <div>
    <a href="https://github.com/lorenamsilva">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenamsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
