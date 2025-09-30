@@ -1,8 +1,26 @@
-  Olá, bem vindo(a)! 👋🏻
+## Bem-vindo(a) ao meu perfil! 😁
 
-- Prazer, meu nome é Lorena Medeiros, tenho 19 anos e fui conquistada pela tecnologia. Sou nova na área e estou empenhada a me tornar uma excelente dev Front-end.
-
-- Aqui você irá encontrar todos os projetos já desenvolvidos por mim. Sinta-se à vontade para fazer _pull requests_ e abrir _issues_ quando quiser, será ótimo poder conversar contigo!
+ <div>
+   <a href="https://github.com/lorenamsilva">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenamsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenamsilva&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+<br>
+ 
+### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+ 
+<div> 
+  
+  <a href="https://instagram.com/llorenams" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:llorenamsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 
 <!---
